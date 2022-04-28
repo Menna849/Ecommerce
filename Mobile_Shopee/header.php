@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -19,6 +20,13 @@
           referrerpolicy="no-referrer" />
     <!--Custom CSS File-->
     <link rel="stylesheet" href="style.css">
+<?php
+
+  // require functions.php file
+  require ('functions.php');
+?>
+
+
 
 
 </head>
